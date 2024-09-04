@@ -1,6 +1,6 @@
-# Search, Sort, Gready Alorithms 
+# Search, Sort, Greedy Alorithms 
 
-## Gready
+## Greedy
   - Knapsack
 
 ## Search
